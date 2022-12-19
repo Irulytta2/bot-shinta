@@ -5,34 +5,33 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
   let _type = (args[0] || '').toLowerCase()
 
 //------- NOMOR
-  let nowner = `https://wa.me/6281515730961${nomorown.split`@`[0]}`
+  let nowner = `https://wa.me/6288227506419${nomorown.split`@`[0]}`
   let teksnomor = `${htki} *OWNER* ${htka}
-✦ https://wa.me/6281515730961${nomorown.split`@`[0]} ✦
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
+• Dahulukan salam, bukan "P"
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
-• No Telp`
+• Owner online kecuali turu
+• No Telp 088227506419 (wa only)
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : JHON
-${htjava} *✉️ Nama RL* : -
+${htjava} *💌 Nama* : IRUL
+${htjava} *✉️ Nama RL* : KEPO
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : PRIVATE
-${htjava} *🧮 Kelas* : PRIVATE
-${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP
-${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Jawa Timur, Pasuruan 
-${htjava} *❤️ Waifu* : Kaede Hitotsuba
+${htjava} *⏰ Tanggal lahir* : 27-5-2001
+${htjava} *🎨 Umur* : HITUNG SENDIRI
+${htjava} *🧮 Kelas* : DAH LULUS
+${htjava} *🧩 Hobby* : TURU
+${htjava} *💬 Sifat* : KEPO
+${htjava} *🗺️ Tinggal* : KUDUS , JATENG
+${htjava} *❤️ Waifu* : KEPO
 
-${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : danangvalentp2 ${sig}
+${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ko.iruul ${sig}
 •·––––––––––––––––––––––––––·•
 `
   let teks = 'Pilih dibawah kak ! o(〃＾▽＾〃)o'
