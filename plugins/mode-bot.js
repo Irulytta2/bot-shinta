@@ -12,13 +12,13 @@ let totalf = Object.values(global.plugins).filter(
     (v) => v.help && v.tags
   ).length;
  await conn.sendButton(m.chat, `*Hai Ngab*
-ɪ'ᴍ ᴊʜᴏɴʙᴏᴛ ʏᴀɴɢ ᴅɪ ʙᴜᴀᴛ ɢᴀᴋ ɴɪᴀᴛ ᴏʟᴇʜ ᴊʜᴏɴ ᴋᴀʀᴇɴᴀ ᴍᴀʟᴇꜱ ʀᴇᴄᴏᴅᴇ ᴊᴀᴅɪ ᴘᴀᴋᴇ ᴀᴊᴀ ᴀᴘᴀ ʏᴀɴɢ ᴀᴅᴀ ʏᴀʜ.
+ᴋᴇɴᴀʟɪɴ ꜱᴀʏᴀ ꜱʜɪɴᴛᴀᴀ, ꜱᴀʏᴀ ᴀᴋᴀɴ ᴍᴇᴍʙᴀɴᴛᴜ ᴀɴᴅᴀ ᴋᴀᴘᴀɴ ᴘᴜɴ & ᴅɪᴍᴀɴᴀ ᴘᴜɴ, ꜱᴀʏᴀ ᴀꜱɪꜱᴛᴇɴ ʙᴏᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʏᴀɴɢ ᴅɪ ʙᴜᴀᴛ ᴏʟᴇʜ ɪʀᴜʟ.
 Kalau Ada Yg Error Bisa Langsung Report Ke Owner.\n`,wm + '\n\n' + botdate, thumbdoc, [['Aʟʟ Mᴇɴᴜ','.? all'],['Lɪsᴛ Mᴇɴᴜ','.siuuu']], m, {
 contextInfo: { externalAdReply :{
                         mediaUrl: '',
                         mediaType: 2,
                         description: 'anu',
-                        title: `A MIMIR🎧 : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
+                        title: `𝐒𝐇𝐈𝐍𝐓𝐀𝐀-𝐁𝐎𝐓🦋 : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
                         body: `Join Grup`,          previewType: 0,
                         thumbnail: await (await fetch(`https://i.ibb.co/5st560k/fake.jpg`)).buffer(),
                         sourceUrl: 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
