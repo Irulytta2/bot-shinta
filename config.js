@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/danangvalentp2'
-global.syt = 'https://youtube.com/channel/Danvaltp'
-global.sgh = 'https://github.com/jhoncorp9'
-global.sgc = 'https://chat.whatsapp.com/FI63JduVcRGK4TKChBtoLx'
-global.swa = 'wa.me/6281515730961'
-global.swb = 'https://discord.gg/4HvezMAw'
+global.sig = 'https://instagram.com/ko.iruul'
+global.syt = '-'
+global.sgh = '-'
+global.sgc = '-'
+global.swa = 'wa.me/6288227506419'
+global.swb = '-'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085850001046'
-global.povo = '081515730961'
-global.pgopay = '081515730961'
-global.ppulsa = '081515730961'
-global.ppulsa2 = '085704337816'
-global.psaweria = 'https://saweria.co/jhoncorp9'
+global.pdana = '0882 2750 6419'
+global.povo = '-'
+global.pgopay = '-'
+global.ppulsa = '-'
+global.ppulsa2 = '-'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285704337816'
-global.nomorown = '6281515730961'
-global.namebot = 'JhonBot'
-global.nameown = 'JHON'
+global.nomorbot = '6287711288322'
+global.nomorown = '6288227506419'
+global.namebot = '𝐒𝐇𝐈𝐍𝐓𝐀𝐀-𝐁𝐎𝐓🦋'
+global.nameown = '𝐈 𝐑 𝐔 𝐋'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281515730961', 'J H O N', 'true']
+  ['6288227506419', '𝐈 𝐑 𝐔 𝐋', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,14 +102,14 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By JhonBot' //Main Watermark
-global.wm2 = 'JhonBot'
-global.wm3 = 'JhonBot | By JhonBot'
+global.wm = 'By 𝐒𝐇𝐈𝐍𝐓𝐀𝐀-𝐁𝐎𝐓🦋' //Main Watermark
+global.wm2 = '𝐒𝐇𝐈𝐍𝐓𝐀𝐀-𝐁𝐎𝐓🦋'
+global.wm3 = '𝐒𝐇𝐈𝐍𝐓𝐀𝐀-𝐁𝐎𝐓🦋 | By 𝐈 𝐑 𝐔 𝐋'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `JhonBot | ʙʏ ${global.nameown}`
-global.author = 'JhonBot' 
-global.packname = 'JhonBot'
+global.titlebot = `𝐒𝐇𝐈𝐍𝐓𝐀𝐀-𝐁𝐎𝐓🦋 | ʙʏ ${global.nameown}`
+global.author = '𝐒𝐇𝐈𝐍𝐓𝐀𝐀-𝐁𝐎𝐓🦋' 
+global.packname = '𝐒𝐇𝐈𝐍𝐓𝐀𝐀-𝐁𝐎𝐓🦋'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'Juni 05 1999'
 
@@ -126,10 +126,10 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya JhonBot Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh Jhon Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Jhon'
-global.umurowner = '23'
-global.asalowner = 'Jawa Timur, Pasuruan'
-global.nomorowner = 'wa.me/6281515730961'
+global.nameowner = '𝐈 𝐑 𝐔 𝐋'
+global.umurowner = '22'
+global.asalowner = 'Kudus, Jawa Tengah'
+global.nomorowner = 'wa.me/6288227506419'
 global.pacarowner = 'Kaede Hitotsuba'
 
 /*============== TEXT ==============*/
