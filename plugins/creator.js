@@ -7,6 +7,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------- NOMOR
   let nowner = `https://wa.me/6288227506419${nomorown.split`@`[0]}`
   let teksnomor = `${htki} *OWNER* ${htka}
+✦ https://wa.me/6288227506419${nomorown.split`@`[0]} ✦
 ------- ${nameown} -------
 
 📮 *Note:*
@@ -27,7 +28,7 @@ ${htjava} *⏰ Tanggal lahir* : 27-5-2001
 ${htjava} *🎨 Umur* : HITUNG SENDIRI
 ${htjava} *🧮 Kelas* : DAH LULUS
 ${htjava} *🧩 Hobby* : TURU
-${htjava} *💬 Sifat* : KEPO
+${htjava} *💬 Nomor* : 088227506419
 ${htjava} *🗺️ Tinggal* : KUDUS , JATENG
 ${htjava} *❤️ Waifu* : KEPO
 
