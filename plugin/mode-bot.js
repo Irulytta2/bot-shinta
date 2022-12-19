@@ -21,7 +21,7 @@ contextInfo: { externalAdReply :{
                         title: `𝐒𝐇𝐈𝐍𝐓𝐀𝐀-𝐁𝐎𝐓🦋 : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
                         body: `Join Grup`,          previewType: 0,
                         thumbnail: await (await fetch(`https://i.ibb.co/5st560k/fake.jpg`)).buffer(),
-                        sourceUrl: 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
+                        sourceUrl: '-'
                       }}
 })
 }
