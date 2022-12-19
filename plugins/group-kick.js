@@ -8,7 +8,7 @@ let handler = async (m, { conn, participants }) => {
             kickedUser.concat(res)
             await delay(1 * 1000)
         }
-    m.reply(`Telah Mengeluarkan Beban  ${kickedUser.map(v => '@' + v.split('@')[0])}`, null, { mentions: kickedUser })
+    m.reply(`Telah Mengeluarkan Beban Grup ${kickedUser.map(v => '@' + v.split('@')[0])}`, null, { mentions: kickedUser })
 
 }
 handler.help = ['kick', '-'].map(v => 'a' + v + ' @user')
